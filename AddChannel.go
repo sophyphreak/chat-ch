@@ -1,6 +1,6 @@
 package ch
 
-import "../msg"
+import msg "github.com/sophyphreak/chat-msg"
 
 // AddChannel adds a new channel or returns channel with same name
 func AddChannel(name string) Channel {

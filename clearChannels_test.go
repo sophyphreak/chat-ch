@@ -3,7 +3,7 @@ package ch
 import (
 	"testing"
 
-	"../msg"
+	msg "github.com/sophyphreak/chat-msg"
 )
 
 func TestClearChannels(t *testing.T) {

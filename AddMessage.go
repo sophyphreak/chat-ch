@@ -1,7 +1,7 @@
 package ch
 
 import (
-	"../msg"
+	msg "github.com/sophyphreak/chat-msg"
 )
 
 // AddMessage adds Message to Messages to channel struct

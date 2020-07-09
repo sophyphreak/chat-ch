@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"../msg"
+	msg "github.com/sophyphreak/chat-msg"
 )
 
 func TestGetChannelNames(t *testing.T) {

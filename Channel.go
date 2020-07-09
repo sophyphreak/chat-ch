@@ -1,6 +1,6 @@
 package ch
 
-import "../msg"
+import msg "github.com/sophyphreak/chat-msg"
 
 // Channels is a slice of all Channels
 var Channels []*Channel

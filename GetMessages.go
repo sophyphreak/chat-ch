@@ -1,6 +1,6 @@
 package ch
 
-import "../msg"
+import msg "github.com/sophyphreak/chat-msg"
 
 // GetMessages returns a slice of all messages in a channel
 func GetMessages(channelName string) []msg.Message {
